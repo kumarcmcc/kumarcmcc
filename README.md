@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar Mondal</h1>
 <h3 align="center">Frontend developer more than last 5 years</h3>
-<img src="https://media.licdn.com/dms/image/D4D12AQHZ4n9TunXXqQ/article-cover_image-shrink_720_1280/0/1673598310961?e=2147483647&v=beta&t=Zvay8rRuGCOPO6Fuf7S0o3CMLLVrEDI-UiKf0HS2Waw" alt="kumarcmcc" />
+<a href="https://chandan-mondal.com/"><img src="https://media.licdn.com/dms/image/D4D12AQHZ4n9TunXXqQ/article-cover_image-shrink_720_1280/0/1673598310961?e=2147483647&v=beta&t=Zvay8rRuGCOPO6Fuf7S0o3CMLLVrEDI-UiKf0HS2Waw" alt="kumarcmcc" /></a>
 
 
 - 🔭 I’m currently working on ENJOY WORKS INC [https://enjoyworks.co.jp/](https://enjoyworks.co.jp/)
